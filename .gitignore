@@ -1,0 +1,19 @@
+# Папки збірки
+x64/
+x86/
+Debug/
+Release/
+bin/
+obj/
+
+# Файли користувача Visual Studio
+*.vcxproj.user
+*.suo
+.vs/
+
+# Інше сміття VS
+*.ilk
+*.pdb
+*.obj
+*.exe
+*.aps

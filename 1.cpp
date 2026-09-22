@@ -24,8 +24,8 @@ public:
 };
 
 int main() {
-    int variant = 4;
-    double x = 0.48 * variant, y = 0.47 * variant, z = -1.32 * variant, b = 1.0;
+    int v = 4;
+    double x = 0.48 * v, y = 0.47 * v, z = -1.32 * v, b = 1.0;
 
     FunctionA fa;
     FunctionB fb;

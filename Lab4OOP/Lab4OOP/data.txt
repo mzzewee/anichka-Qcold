@@ -1,0 +1,15 @@
+Shevchenko
+Taras
+45
+Kovalenko
+Olha
+20
+KN-21
+88.5
+Bondar
+Andrii
+22
+KN-41
+92.3
+Sorting algorithms analysis
+Melnyk O.P.
